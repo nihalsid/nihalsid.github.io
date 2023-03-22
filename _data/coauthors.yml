@@ -1,34 +1,63 @@
-"Adams":
-  - firstname: ["Edwin", "E.", "E. P.", "Edwin Plimpton"]
-    url: https://en.wikipedia.org/wiki/Edwin_Plimpton_Adams
+"Porzi":
+  - firstname: ["Lorenzo", "L."]
+    url: https://scholar.google.it/citations?user=vW1gaVEAAAAJ&hl=it
 
-"Podolsky":
-  - firstname: ["Boris", "B.", "B. Y.", "Boris Yakovlevich"]
-    url: https://en.wikipedia.org/wiki/Boris_Podolsky
+"Buló":
+  - firstname: ["Samuel Rota", "S. R."]
+    url: https://scholar.google.com/citations?user=484sccEAAAAJ&hl=en
 
-"Rosen":
-  - firstname: ["Nathan", "N."]
-    url: https://en.wikipedia.org/wiki/Nathan_Rosen
+"Müller":
+  - firstname: ["Norman", "N."]
+    url: https://niessnerlab.org/members/norman_mueller/profile.html
 
-"Bach": 
-  - firstname: ["Johann Sebastian", "J. S."]
-    url: https://en.wikipedia.org/wiki/Johann_Sebastian_Bach
+"Nießner":
+  - firstname: ["Matthias", "M."]
+    url: https://niessnerlab.org/members/matthias_niessner/profile.html
 
-  - firstname: ["Carl Philipp Emanuel", "C. P. E."]
-    url: https://en.wikipedia.org/wiki/Carl_Philipp_Emanuel_Bach
+"Dai":
+  - firstname: ["Angela", "A."]
+    url: https://www.3dunderstanding.org/team.html
 
-"Przibram":
-  - firstname: ["Karl"]
-    url: https://link.springer.com/article/10.1007/s00016-019-00242-z
+"Kontschieder":
+  - firstname: ["Peter", "P."]
+    url: https://scholar.google.com/citations?user=CxbDDRMAAAAJ&hl=en
 
-"Schrödinger":
-  - firstname: ["Erwin"]
-    url: https://en.wikipedia.org/wiki/Erwin_Schr%C3%B6dinger
+"Thies":
+  - firstname: ["Justus", "J."]
+    url: https://justusthies.github.io/
 
-"Lorentz":
-  - firstname: ["Hendrik Antoon"]
-    url: https://en.wikipedia.org/wiki/Hendrik_Lorentz
+"Ma":
+  - firstname: ["Fangchang", "F."]
+    url: https://fangchangma.github.io/
 
-"Planck":
-  - firstname: ["Max"]
-    url: https://en.wikipedia.org/wiki/Max_Planck
+"Shan":
+  - firstname: ["Qi", "Q."]
+    url: https://shanqi.github.io/
+
+"Valentin":
+  - firstname: ["Julien", "J."]
+    url: https://scholar.google.co.uk/citations?user=pZPD0hMAAAAJ&hl=en
+
+"Aljalbout":
+  - firstname: ["Elie", "E."]
+    url: https://eliealjalbout.github.io/
+
+"Golkov":
+  - firstname: ["Vladimir", "V."]
+    url: https://cvg.cit.tum.de/members/golkov
+
+"Cremers":
+  - firstname: ["Daniel", "D."]
+    url: https://cvg.cit.tum.de/members/cremers
+
+"Chen":
+  - firstname: ["Dave Zhenyu", "Z."]
+    url: https://daveredrum.github.io/
+
+"Lee":
+  - firstname: ["Hsin-Ying", "H."]
+    url: http://hsinyinglee.com/
+
+"Tulyakov":
+  - firstname: ["Sergey", "S."]
+    url: http://www.stulyakov.com/
