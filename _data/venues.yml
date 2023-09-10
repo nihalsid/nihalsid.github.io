@@ -10,6 +10,10 @@
   url: https://cvpr2023.thecvf.com/
   color: "#2a9d8f"
 
+"ICCV23":
+  url: https://iccv2023.thecvf.com/home
+  color: "#e9c46a"
+  
 "ICCV21":
   url: https://iccv2021.thecvf.com/home
   color: "#e9c46a"
