@@ -61,3 +61,23 @@
 "Tulyakov":
   - firstname: ["Sergey", "S."]
     url: http://www.stulyakov.com/
+
+"Alliegro":
+  - firstname: ["Antonio"]
+    url: https://scholar.google.com/citations?user=yQqW5q0AAAAJ&hl=it
+
+"Artemov":
+  - firstname: ["Alexey"]
+    url: https://artonson.github.io/
+
+"Tommasi":
+  - firstname: ["Tatiana"]
+    url: http://www.tatianatommasi.com/
+
+"Rosov":
+  - firstname: ["Vladislav"]
+    url: https://linkedin.com/in/vladislav-rosov/
+
+"Sirigatti":
+  - firstname: ["Daniele"]
+    url: https://www.linkedin.com/in/dsirigatti/
