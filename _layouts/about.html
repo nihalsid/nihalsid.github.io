@@ -40,18 +40,29 @@ layout: default
             {{ content }}
           </div>
 
-          <!-- News -->
-          {% if page.news -%}
-            <h2><a href="{{ '/news/' | relative_url }}" style="color: inherit;">news</a></h2>
-            {%- include news.html %}
-          {%- endif %}
-
           <!-- Selected papers -->
           {% if page.selected_papers -%}
             <br/>
-            <h2><a href="{{ '/publications/' | relative_url }}" style="color: inherit;">Research</a></h2>
+            <h2><a href="#" style="color: inherit;">Research</a></h2>
             {%- include selected_papers.html %}
           {%- endif %}
+
+          <h2>Invited Talks</h2>
+          <div class="container">
+            <div class="row">
+              <ul>
+                <li><b>[Autodesk AI, July 2024]</b>&nbsp;&nbsp; 3D Content Creation using Reconstruction and Generation</li>
+                <li><b>[CVPR 3DMV Workshop, June 2024]</b>&nbsp;&nbsp; MeshGPT: Generating Triangle Meshes with Decoder-Only Transformers</li>
+                <li><b>[Apple, 3D Reconstruction Team, December 2023]</b>&nbsp;&nbsp; MeshGPT: Generating Triangle Meshes with Decoder-Only Transformers</li>
+                <li><b>[Talking Papers Podcast, July 2023]</b>&nbsp;&nbsp; Panoptic Lifting for 3D Scene Understanding with Neural Fields</li>
+                <li><b>[CVPR Workshop for Compositional 3D Vision, June 2023]</b>&nbsp;&nbsp; Panoptic Lifting for 3D Scene Understanding with Neural Fields</li>
+                <li><b>[CVPR Workshop for Scene Understanding, June 2023]</b>&nbsp;&nbsp; Panoptic Lifting for 3D Scene Understanding with Neural Fields</li>
+                <li><b>[HiGraphics, February 2023]</b>&nbsp;&nbsp;Panoptic Lifting for 3D Scene Understanding with Neural Fields</li>
+              </ul>
+            </div>
+          </div>
+
+          <br/>
 
           <h2>Teaching</h2>
           <br/>
@@ -108,13 +119,14 @@ layout: default
             </div>
 
           </div>
-
+          
           <br/>
+
           <h2>Reviewer Experience</h2>
           
           <div class="container">
             <div class="row">
-              Reviewed in the past for CVPR, ICCV, ECCV.
+              Reviewed in the past for NeurIPS24, CVPR24, CVPR23, ICCV21, ECCV22, SIGGRAPH24, SIGGRAPH-Asia24, SIGGRAPH-Asia23, VMV24.
             </div>
           </div>
 
