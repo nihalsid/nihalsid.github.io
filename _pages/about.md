@@ -15,7 +15,7 @@ news: false  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 ---
-Hi! I'm Yawar. I am an incoming Research Scientist at [Reality Labs, Meta](https://nihalsid.github.io/) in Munich. I did my PhD at the [Visual Computing and Artificial Intelligence](https://niessnerlab.org/) group of [Prof. Matthias Niessner](https://niessnerlab.org/members/matthias_niessner/profile.html) at the [Technical University of Munich](https://www.tum.de/en/), Germany. My work focuses on 3D reconstruction, scene understanding and 3D generative models.
+Hi! I'm Yawar. I am a Research Scientist at [Reality Labs, Meta](https://nihalsid.github.io/) in Munich. I did my PhD at the [Visual Computing and Artificial Intelligence](https://niessnerlab.org/) group of [Prof. Matthias Niessner](https://niessnerlab.org/members/matthias_niessner/profile.html) at the [Technical University of Munich](https://www.tum.de/en/), Germany. My work focuses on 3D reconstruction, scene understanding and 3D generative models.
 
 Before my PhD, I did a Masters in Informatics at [TUM](https://www.tum.de/en/), Germany, and my Bachelors in Computer Science at [Jamia Millia Islamia](https://www.jmi.ac.in/), New Delhi, India, graduating with high distinction and at the top of the class respectively.
 
